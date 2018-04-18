@@ -1,0 +1,24 @@
+{
+  "name": "anodot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taliberman/anodot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taliberman/anodot/issues"
+  },
+  "homepage": "https://github.com/taliberman/anodot#readme",
+  "dependencies": {
+    "aws-sdk": "^2.224.1",
+    "express": "^4.16.3",
+    "xlsx": "^0.12.9"
+  }
+}
